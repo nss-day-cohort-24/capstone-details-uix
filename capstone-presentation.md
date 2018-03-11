@@ -1,4 +1,4 @@
-# NSS Capstone Presentation Instructions
+# NSS Capstone UIX Presentation Instructions
 
 Each presentation should take approximately **7 minutes** and cover the following material:
 
@@ -19,12 +19,12 @@ Each presentation should take approximately **7 minutes** and cover the followin
 ## Important points to remember:
 
 * Use a tool to assist preparing your presentation  (Google Docs has slides).
-* Within in your presentation, include a **Demo Time** slide. This will remind you to show the product even when your nerves are crazy.
+* Within in your presentation, include a `Demo Time` slide. This will remind you to show the product even when your nerves are crazy.
 * Be sure to include your email and github account at the end of presentation.
 * Speak loudly and clearly, and face your audience.
-* Be positive and use positive words. **DO NOT** emphasize broken parts of the program.  If you notice a bug while you're presenting, just gloss past it. This is an important skill to learn for giving product demos.
-* **DO NOT** insult your own work.  People tend to take a person's self-evaluation at face value and you'll simply be setting people up to think your work is sub-par.
-* Avoid referencing other student's presentations in a "well, they covered everything I had to say on my lessons learned". Your presentation should stand alone.
+* Be positive and use positive words. **DO NOT** emphasize broken parts of the program. If you notice a bug while you're presenting, just gloss past it. This is an important skill to learn for giving product demos.
+* **DO NOT** insult your own work. People tend to take a person's self-evaluation at face value and you'll simply be setting people up to think your work is sub-par.
+* **AVOID** referencing other student's presentations in a "well, they covered everything I had to say on my lessons learned". Your presentation should stand alone.
 * Your presentation and application should be complete the evening before presentations. You are expected to have your laptop closed and your attention on the presenter during the presentations.
 
 
