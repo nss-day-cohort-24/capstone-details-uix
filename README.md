@@ -1,4 +1,4 @@
-# NSS Capstone Info
+# NSS Capstone Info for UIX
 
 ### Proposal Guide
   Getting started: <a href="capstone-proposal.md">capstone-proposal.md</a>
@@ -13,8 +13,7 @@
 * Looking for inspirational API's: https://github.com/toddmotto/public-apis
 * Got some cross origin relationship problems? Review this repo: https://github.com/BlaiseRoberts/proxy-server
 * Chrome CORS Extension https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc?hl=en
-* * Missing link between Materialize and Angular: https://krescruz.github.io/angular-materialize/
-* Angular Style Guides: https://github.com/johnpapa/angular-styleguide
+
 
 ### Keep your Spirits Up
 * https://github.com/wesbos/dad-jokes
