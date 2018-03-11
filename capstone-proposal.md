@@ -5,7 +5,10 @@
     * **Project Overview** 
         * Consider:
            * What problem does your capstone address?
+           * Who are your primary users and customers?
+           * Research Plan
            * Outline the features
+              * Explain how each feature fulfill's users' requirements
            * Specifications
               * Describe any technology needed.
               * List API's
@@ -13,10 +16,13 @@
            * Your Goals
 
 1. Start a GitProject or Trello board and provide a link to the instruction team.
+
 1. You will be responsible for creating a design brief. This will include (not limited to):
     * Challenge Statement
     * Personas
+    * User Research Insights and Recommendations
     * Information Architecture
-    * Screen Sketches
-    * Prototype and reviews
-1. Be sure to review design briefs presented in class.
+    * Prototype and Applied Test Results
+    
+1. Be sure to review design briefs and <a href="https://sites.google.com/susanculkin.com/fewdd-b/fewdd-portfolio">portfolio guidelines</a> presented in class
+
