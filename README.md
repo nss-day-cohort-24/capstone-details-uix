@@ -12,7 +12,7 @@
     * Step by step: https://gilbertodiaz.com/adding-dummy-data-to-firebase
 * Looking for inspirational API's: https://github.com/toddmotto/public-apis
 * Got some cross origin relationship problems? Review this repo: https://github.com/BlaiseRoberts/proxy-server
-* Chrome CORS Extension https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc?hl=en
+* Chrome CORS Extension https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en
 
 
 ### Keep your Spirits Up
