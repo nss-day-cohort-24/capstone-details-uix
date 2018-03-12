@@ -6,7 +6,7 @@ Each presentation should take approximately **7 minutes** and cover the followin
     * Pull these from your capstone proposal, GitProject and/or README. Goals should be measurable.
 1. Design Brief (2 minutes) 
     * Only include slides you will actually talk about.
-    * Remember, a good presentation should not be you reading every word on each slide. Use bullet points effectively. Tell a story. 
+    * Remember, a good presentation is more than you reading every word on each slide. Use bullet points effectively. Tell a story. 
 2. Demo (2 minutes)
     * You don't have to demonstrate all of the functionality, just the high points.
     * Demonstrating the ability to sign-in/sign-up is a poor use of time unless there is something special about your sign-in/up process. So, have a logged-in user and be ready to go when you present.
