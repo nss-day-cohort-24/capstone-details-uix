@@ -14,7 +14,10 @@
               * List API's
            * User Focused Goals
            * Your Goals
-
+   * **MVP**
+      * List out MVP. This should include technical and design details.
+   * **Stretch Goals**
+      * List out any stretch goals. This can be technical and/or design related.
 1. Start a GitProject or Trello board and provide a link to the instruction team.
 
 1. You will be responsible for creating a design brief. This will include (not limited to):
